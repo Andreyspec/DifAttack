@@ -1,0 +1,18 @@
+﻿Сборка начата 23.05.2020 21:35:41.
+     1>Проект "C:\Users\Practic\Desktop\С++ OO\DifferentialAtackforDES1round\DifferentialAtackforDES1round\DifferentialAtackforDES1round.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\practic\desktop\с++ oo\differentialatackfordes1round\differentialatackfordes1round\main.cpp(136): warning C4244: =: преобразование "unsigned long" в "uint8_t", возможна потеря данных
+     1>c:\users\practic\desktop\с++ oo\differentialatackfordes1round\differentialatackfordes1round\main.cpp(154): warning C4244: аргумент: преобразование "unsigned long" в "uint16_t", возможна потеря данных
+     1>c:\users\practic\desktop\с++ oo\differentialatackfordes1round\differentialatackfordes1round\main.cpp(476): warning C4244: =: преобразование "uint16_t" в "uint8_t", возможна потеря данных
+     1>c:\users\practic\desktop\с++ oo\differentialatackfordes1round\differentialatackfordes1round\main.cpp(477): warning C4244: =: преобразование "uint16_t" в "uint8_t", возможна потеря данных
+     1>c:\users\practic\desktop\с++ oo\differentialatackfordes1round\differentialatackfordes1round\main.cpp(180): warning C4101: Key: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Practic\Desktop\С++ OO\DifferentialAtackforDES1round\Debug\DifferentialAtackforDES1round.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Practic\Desktop\С++ OO\DifferentialAtackforDES1round\Debug\DifferentialAtackforDES1round.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Practic\Desktop\С++ OO\DifferentialAtackforDES1round\Debug\DifferentialAtackforDES1round.lib" /MACHINE:X86 Debug\main.obj
+         DifferentialAtackforDES1round.vcxproj -> C:\Users\Practic\Desktop\С++ OO\DifferentialAtackforDES1round\Debug\DifferentialAtackforDES1round.exe
+     1>Сборка проекта "C:\Users\Practic\Desktop\С++ OO\DifferentialAtackforDES1round\DifferentialAtackforDES1round\DifferentialAtackforDES1round.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.26
